@@ -1,0 +1,52 @@
+{
+  "map_path": "D:\\12638\\Pictures\\洛克地图\\右上角棵棵果树.png",
+  "mode": "window",
+  "window_keyword": "洛克王国：世界  ",
+  "monitor": 1,
+  "minimap_circle": true,
+  "center_mask_ratio": 0.12,
+  "profiles": {
+    "1920x1440": [
+      1712,
+      61,
+      183,
+      179
+    ]
+  },
+  "interval": 0.1,
+  "map_features": 60000,
+  "mini_features": 1500,
+  "fast_threshold": 12,
+  "ratio_thresh": 0.75,
+  "ransac_thresh": 5.0,
+  "min_matches": 8,
+  "min_inliers": 6,
+  "conf_threshold": 0.3,
+  "smooth_alpha": 0.3,
+  "jump_dist": 500,
+  "scale_min": 0.15,
+  "scale_max": 8.0,
+  "arrow": {
+    "cx": 0.5137,
+    "cy": 0.4916,
+    "s": 179,
+    "a0": 346.0,
+    "flip": false,
+    "color": [
+      197.0,
+      145.0,
+      196.0
+    ],
+    "tol": 48.0,
+    "tpl": "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"
+  },
+  "arrow_smooth": 0.5,
+  "arrow_max_rmse": 55.0,
+  "view_size": 320,
+  "view_zoom": 6.0,
+  "window_pos": [
+    50,
+    170
+  ],
+  "show_resources": true
+}
